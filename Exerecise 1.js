@@ -1,6 +1,6 @@
- var x = "#";
+for (x = "#";
   x.length < 8;
-  x += "#"
- console.log (x);
+  x += "#")
+ Console.log (x);
  
 
